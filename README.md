@@ -5,7 +5,7 @@ EEG-Blink is a public EEG dataset for blink recognition research. It includes vo
 ## Dataset Overview
 
 - Number of subjects: 12 (6 male, 6 female)
-- Age range: 22 to 40 years, with a mean age of 25 years and a standard deviation of 4.2 years
+- Age range: 22 to 40 years, with a mean age of 26 years and a standard deviation of 4.2 years
 - Vision and health status: all subjects had normal vision, no history of neurological disease, and no prior EEG experience
 - Acquisition device: MindBand portable EEG device with TGAM sensor
 - Sampling rate: 512 Hz
